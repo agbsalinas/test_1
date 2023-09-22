@@ -10,3 +10,4 @@
 * push : send to github
 * pull : fetch from github
 * ++
+* --
