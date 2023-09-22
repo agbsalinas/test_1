@@ -9,3 +9,4 @@
 * commit : a version of the project
 * push : send to github
 * pull : fetch from github
+* ++
